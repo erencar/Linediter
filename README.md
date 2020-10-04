@@ -1,4 +1,4 @@
-# Line Editer
+# Linediter
 
 You can do a few line operations with linediter,
 
